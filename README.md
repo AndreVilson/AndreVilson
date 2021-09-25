@@ -1,7 +1,8 @@
-### Olá! Sou o André Vilson
+### Olá, sou  André Vilson
 
 
-- 🌱 Estou estudando Java
+
+
 
  <div>
   <a href="https://github.com/AndreVilson">
@@ -14,6 +15,7 @@
   <img align="center" alt="AndreVilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AndreVilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AndreVilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
 
 ##
